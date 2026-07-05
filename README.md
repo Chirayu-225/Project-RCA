@@ -77,8 +77,10 @@ The current frontier isn't "more rules" — it's **automating rule generation an
 
 ## 4. Summary Takeaway
 
-> Bad data is identified through a combination of **(a)** deterministic rule enforcement, **(b)** statistical/ML anomaly detection (observability), and **(c)** human stewardship for judgment calls — all organized around a shared taxonomy of quality dimensions (DAMA-DMBOK: accuracy, completeness, validity, consistency, uniqueness, timeliness).
->
+> Bad data is identified through a combination of
+> **(a)** deterministic rule enforcement,
+> **(b)** statistical/ML anomaly detection (observability), and
+> **(c)** human stewardship for judgment calls — all organized around a shared taxonomy of quality dimensions (DAMA-DMBOK: accuracy, completeness, validity, consistency, uniqueness, timeliness).
 > Enterprises layer all three approaches because rules catch **known** failure modes, observability catches **unknown** ones, and humans resolve **ambiguity** that neither can settle alone.
 
 This output feeds directly into **Layer 1: Defect Characterization** of the RCA Framework — the classification produced here is the input the rest of the RCA pipeline consumes.
