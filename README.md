@@ -1,5 +1,3 @@
-# Project-RCA
-
 # Identifying & Classifying Bad Data — Enterprise Methods
 
 ## Overview
